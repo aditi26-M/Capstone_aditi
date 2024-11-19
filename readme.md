@@ -1,3 +1,1 @@
-
-this is dev1
-
+merge conflict solved by dev1 and dev2
